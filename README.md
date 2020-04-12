@@ -20,4 +20,4 @@ Le modeste objectif de ce projet est de dérouler l'exemple fourni par le créat
    
    Si tout se passe bien le contenu résultant se trouvera dans DATA/OUT, vous avez maintenant 16 Go compressé contenant la sagesse de l'humanité (ainsi que le	reste)
 	
-
+2. Convert articles
