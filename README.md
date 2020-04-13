@@ -18,6 +18,6 @@ Le modeste objectif de ce projet est de dérouler l'exemple fourni par le créat
 
 1. First we have to download the raw material (a.k.a wikipedia dump) : `./download_wikipedia.sh`
    
-   If everything goes smoothly, the dump will be available in `DATA/OUT`. Congrats ! You're the happy owner of 16 compressed Gigs of humankind wisdom (as well as many other things).
+   If everything goes smoothly, the dump will be available in `DATA/IN`. Congrats ! You're the happy owner of 16 compressed Gigs of humankind wisdom (as well as many other things).
 	
 2. Extract dictionnary and corpus from wikipedia dump : `python -m gensim.scripts.make_wiki DATA/IN/enwiki-latest-pages-articles.xml.bz2 DATA/OUT/wiki`
