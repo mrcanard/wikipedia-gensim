@@ -131,6 +131,9 @@ dmypy.json
 # ignore wikipedia dump file for git
 enwiki*.xml.bz2
 
+# ignore output
+DATA/OUT/*.bz2
+
 # Emacs/vim
 *~
 *.swp
