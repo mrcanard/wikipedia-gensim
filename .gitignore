@@ -137,3 +137,6 @@ DATA/OUT/*.bz2
 # Emacs/vim
 *~
 *.swp
+
+# Vs Code
+.vscode
